@@ -1,0 +1,96 @@
+src/common/mac/src_tools_mac_dump_syms_dump_syms_mac-macho_utilities.o: \
+ src/common/mac/macho_utilities.cc /usr/include/stdc-predef.h \
+ src/common/mac/byteswap.h \
+ src/third_party/mac_headers/architecture/byte_order.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/byteswap.h \
+ src/common/mac/macho_utilities.h \
+ src/third_party/mac_headers/mach-o/loader.h \
+ src/third_party/mac_headers/mach/machine.h \
+ src/third_party/mac_headers/mach/machine/vm_types.h \
+ src/third_party/mac_headers/mach/i386/vm_types.h \
+ src/third_party/mac_headers/i386/_types.h \
+ src/third_party/mac_headers/mach/i386/vm_param.h \
+ src/third_party/mac_headers/mach/boolean.h \
+ src/third_party/mac_headers/mach/machine/boolean.h \
+ src/third_party/mac_headers/mach/i386/boolean.h \
+ src/third_party/mac_headers/mach/vm_prot.h \
+ src/third_party/mac_headers/mach/machine/thread_status.h \
+ src/third_party/mac_headers/mach/thread_status.h \
+ src/third_party/mac_headers/mach/machine/thread_state.h \
+ src/third_party/mac_headers/mach-o/fat.h
+
+/usr/include/stdc-predef.h:
+
+src/common/mac/byteswap.h:
+
+src/third_party/mac_headers/architecture/byte_order.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/byteswap.h:
+
+src/common/mac/macho_utilities.h:
+
+src/third_party/mac_headers/mach-o/loader.h:
+
+src/third_party/mac_headers/mach/machine.h:
+
+src/third_party/mac_headers/mach/machine/vm_types.h:
+
+src/third_party/mac_headers/mach/i386/vm_types.h:
+
+src/third_party/mac_headers/i386/_types.h:
+
+src/third_party/mac_headers/mach/i386/vm_param.h:
+
+src/third_party/mac_headers/mach/boolean.h:
+
+src/third_party/mac_headers/mach/machine/boolean.h:
+
+src/third_party/mac_headers/mach/i386/boolean.h:
+
+src/third_party/mac_headers/mach/vm_prot.h:
+
+src/third_party/mac_headers/mach/machine/thread_status.h:
+
+src/third_party/mac_headers/mach/thread_status.h:
+
+src/third_party/mac_headers/mach/machine/thread_state.h:
+
+src/third_party/mac_headers/mach-o/fat.h:
